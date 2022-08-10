@@ -9,7 +9,7 @@ import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 @Configuration
 @EnableWebMvc
-@ComponentScan(basePackages="me.serterano.springsecurity.config")
+@ComponentScan(basePackages="me.serterano.springsecurity")
 public class DemoAppConfig {
 	
 	@Bean
@@ -20,7 +20,7 @@ public class DemoAppConfig {
 		viewResolver.setPrefix("/WEB-INF/view/");
 		viewResolver.setSuffix(".jsp");
 		
-		return viewResolver();
+		return viewResolver;
 	}
 
 }
