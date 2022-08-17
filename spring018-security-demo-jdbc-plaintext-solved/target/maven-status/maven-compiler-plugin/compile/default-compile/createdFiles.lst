@@ -1,0 +1,6 @@
+me\serterano\springsecurity\config\DemoAppConfig.class
+me\serterano\springsecurity\config\SecurityWebApplicationInitializer.class
+me\serterano\springsecurity\config\DemoSecurityConfig.class
+me\serterano\springsecurity\config\MySpringMvcDispatcherServletInitializer.class
+me\serterano\springsecurity\controller\DemoController.class
+me\serterano\springsecurity\controller\LoginController.class
