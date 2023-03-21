@@ -1,8 +1,8 @@
 # spring-study-projects
 
-IoC_Container001 -> ApplicationContext(Container) arayüzü nedir, xml metadata configuration.
+Core001IoC_Container -> ApplicationContext(Container) arayüzü nedir, xml metadata configuration.
 
-Bean_Overview002 ->
+Core002Bean_Overview ->
 
 
 spring015 -> solved (just update dependency versions)
