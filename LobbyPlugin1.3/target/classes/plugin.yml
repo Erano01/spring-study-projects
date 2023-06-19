@@ -1,0 +1,15 @@
+name: LobbyPlugin
+main: Erano.LobbyPlugin.main
+author: Erano
+description: LobbyPlugin
+version: 1.0
+commands:
+   register:
+      description: Register command
+      usage: /register
+   login:
+      description: login command
+      usage: /login
+   online:
+      description: online oyuncu sayisi
+      usage: /online

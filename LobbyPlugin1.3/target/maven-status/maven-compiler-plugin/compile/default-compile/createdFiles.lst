@@ -1,0 +1,6 @@
+Erano\LobbyPlugin\Commands\OnlinePlayersCommand.class
+Erano\LobbyPlugin\main.class
+Erano\LobbyPlugin\Commands\RegisterCommand.class
+Erano\LobbyPlugin\Events\LeaveEvent.class
+Erano\LobbyPlugin\Events\NoFallEvent.class
+Erano\LobbyPlugin\Events\BlockBreak.class
